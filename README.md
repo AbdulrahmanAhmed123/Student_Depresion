@@ -53,4 +53,3 @@
 2. اتأكد من تحميل الـ Dataset في نفس الفولدر باسم `student_depression_dataset.csv`.
 3. افتح الـ Notebook وعيش مع الكود! 
 
-> **Note:** تقدر تفتح المشروع مباشرة على Google Colab من خلال الـ Badge الموجودة فوق خالص في الـ Notebook! 🚀
